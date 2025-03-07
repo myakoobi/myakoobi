@@ -7,3 +7,5 @@ This program used the sockets in java and it was also connected to a server wher
 Feel free to check the code out I will probably add more in here abou the code. 
 
 I delivered this to a company which I had an unpaid internship contract with.
+
+I will make a project like this 
